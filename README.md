@@ -2,6 +2,9 @@
 AI model to # AI-Based Drug Toxicity Prediction Platform
 
 This project uses Machine Learning to predict potential toxicity of drug molecules using molecular fingerprints and RDKit.
+## Project Demo
+
+![Drug Toxicity Prediction](screenshot.png)
 
 ## Technologies
 Python
