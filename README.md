@@ -16,7 +16,7 @@ Streamlit
 - Interactive prediction interface
  ## Project Demo
 
-![Drug Toxicity Prediction](Screenshot(18).png)
+![Drug Toxicity Prediction](Screenshot (18).png)
 
 ## How to Run
 pip install -r requirements.txt
