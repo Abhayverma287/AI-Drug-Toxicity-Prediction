@@ -14,6 +14,9 @@ Streamlit
 - Molecular feature extraction
 - Toxicity prediction model
 - Interactive prediction interface
+ ## Project Demo
+
+![Drug Toxicity Prediction](screenshot.png)
 
 ## How to Run
 pip install -r requirements.txt
