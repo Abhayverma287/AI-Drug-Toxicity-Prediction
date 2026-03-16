@@ -1,0 +1,501 @@
+disease,gene,association_score
+COVID-19,APOE,0.826
+Arthritis,ACE,0.826
+Hypertension,EGFR,0.888
+Parkinson,PTEN,0.687
+Arthritis,TP53,0.915
+Breast Cancer,VEGFA,0.531
+Diabetes,JAK2,0.897
+Obesity,APOE,0.953
+Asthma,IL6,0.559
+Parkinson,IL6,0.896
+Breast Cancer,MTOR,0.588
+Alzheimer,CFTR,0.923
+Obesity,APOE,0.569
+Hypertension,TP53,0.902
+Diabetes,BACE1,0.533
+Obesity,MYC,0.778
+Hypertension,ACE,0.751
+Lung Cancer,TNF,0.582
+Lung Cancer,APOE,0.863
+Asthma,BRCA1,0.505
+Lung Cancer,BACE1,0.629
+Hypertension,CFTR,0.696
+Parkinson,PTEN,0.904
+Breast Cancer,BRCA2,0.984
+Arthritis,TNF,0.686
+Breast Cancer,MTOR,0.535
+Diabetes,APP,0.776
+Obesity,ACE,0.712
+Breast Cancer,AKT1,0.571
+Obesity,MAPK1,0.579
+Alzheimer,MTOR,0.597
+Breast Cancer,MYC,0.532
+Alzheimer,KRAS,0.522
+Alzheimer,VEGFA,0.783
+Lung Cancer,JAK2,0.71
+Breast Cancer,APP,0.523
+Asthma,MAPK1,0.85
+Parkinson,JAK2,0.901
+Obesity,BRCA2,0.938
+Hypertension,MYC,0.94
+Lung Cancer,BRCA2,0.883
+Hypertension,ACE,0.988
+Arthritis,VEGFA,0.544
+Breast Cancer,INS,0.902
+Alzheimer,CFTR,0.874
+Arthritis,VEGFA,0.634
+Parkinson,INS,0.731
+Breast Cancer,CFTR,0.984
+Breast Cancer,BRCA2,0.54
+Diabetes,KRAS,0.993
+Arthritis,APOE,0.614
+Asthma,VEGFA,0.724
+Asthma,PTEN,0.804
+Breast Cancer,VEGFA,0.634
+Breast Cancer,APOE,0.729
+Asthma,MYC,0.629
+Parkinson,INS,0.722
+Asthma,INS,0.696
+Breast Cancer,APP,0.543
+Alzheimer,MTOR,0.528
+Diabetes,VEGFA,0.65
+Arthritis,TP53,0.943
+Asthma,APOE,0.929
+Parkinson,PTEN,0.588
+Alzheimer,VEGFA,0.636
+Breast Cancer,VEGFA,0.79
+Arthritis,ACE,0.875
+Obesity,VEGFA,0.792
+Breast Cancer,PTEN,0.945
+Asthma,JAK2,0.922
+Lung Cancer,EGFR,0.775
+Lung Cancer,CFTR,0.574
+Arthritis,BRCA2,0.891
+Diabetes,MAPK1,0.86
+Breast Cancer,VEGFA,0.773
+Obesity,INS,0.92
+Arthritis,VEGFA,0.888
+Lung Cancer,TNF,0.923
+Arthritis,APOE,0.813
+Hypertension,MTOR,0.806
+Obesity,INS,0.829
+Lung Cancer,PTEN,0.513
+Breast Cancer,TP53,0.576
+Diabetes,PTEN,0.974
+Obesity,ACE,0.921
+Diabetes,IL6,0.939
+Hypertension,INS,0.559
+Arthritis,APOE,0.835
+Asthma,APP,0.737
+Obesity,CFTR,0.718
+Hypertension,VEGFA,0.661
+Asthma,ACE,0.543
+Parkinson,CFTR,0.77
+Asthma,APOE,0.703
+Obesity,IL6,0.738
+Hypertension,EGFR,0.724
+Alzheimer,MYC,0.836
+Obesity,IL6,0.946
+Asthma,ACE,0.689
+Obesity,APOE,0.619
+Alzheimer,IL6,0.975
+Hypertension,VEGFA,0.762
+COVID-19,BRCA2,0.913
+Lung Cancer,MTOR,0.667
+Arthritis,PTEN,0.72
+Lung Cancer,PTEN,0.565
+Breast Cancer,PTEN,0.928
+Obesity,MYC,0.618
+Asthma,APP,0.591
+Arthritis,EGFR,0.583
+Lung Cancer,APP,0.599
+Hypertension,KRAS,0.826
+Parkinson,IL6,0.672
+Lung Cancer,BRCA1,0.98
+Lung Cancer,EGFR,0.853
+Arthritis,BACE1,0.676
+Lung Cancer,BACE1,0.68
+Parkinson,BRCA1,0.925
+Obesity,BACE1,0.639
+Obesity,AKT1,0.728
+COVID-19,BRCA2,0.522
+Lung Cancer,EGFR,0.542
+Breast Cancer,AKT1,0.976
+Hypertension,CFTR,0.57
+Asthma,BRCA1,0.766
+Lung Cancer,ACE,0.848
+Diabetes,TNF,0.645
+Arthritis,JAK2,0.967
+Diabetes,VEGFA,0.883
+Arthritis,EGFR,0.671
+Diabetes,TNF,0.824
+Lung Cancer,MYC,0.878
+Alzheimer,EGFR,0.516
+Hypertension,APP,0.811
+COVID-19,TP53,0.799
+Arthritis,APOE,0.809
+Breast Cancer,INS,0.97
+Arthritis,AKT1,0.862
+Hypertension,MYC,0.738
+Lung Cancer,ACE,0.727
+Obesity,IL6,0.7
+Breast Cancer,MTOR,0.568
+COVID-19,INS,0.801
+Asthma,APOE,0.844
+Parkinson,TP53,0.903
+Parkinson,TNF,0.537
+Breast Cancer,PTEN,0.823
+Asthma,JAK2,0.831
+Parkinson,MTOR,0.941
+Obesity,JAK2,0.606
+COVID-19,IL6,0.783
+Arthritis,BRCA2,0.764
+Alzheimer,EGFR,0.825
+COVID-19,BRCA1,0.709
+Asthma,AKT1,0.674
+Hypertension,ACE,0.655
+Obesity,IL6,0.88
+Parkinson,EGFR,0.592
+Diabetes,JAK2,0.601
+COVID-19,KRAS,0.597
+Parkinson,ACE,0.544
+Alzheimer,EGFR,0.805
+Breast Cancer,VEGFA,0.523
+Hypertension,IL6,0.722
+Lung Cancer,MTOR,0.705
+Breast Cancer,IL6,0.926
+Arthritis,APOE,0.883
+Arthritis,KRAS,0.718
+Hypertension,APOE,0.587
+Breast Cancer,VEGFA,0.706
+Hypertension,VEGFA,0.896
+Obesity,ACE,0.762
+Breast Cancer,APP,0.959
+Alzheimer,APOE,0.533
+Obesity,TNF,0.766
+Lung Cancer,EGFR,0.689
+Alzheimer,AKT1,0.666
+Lung Cancer,APP,0.903
+Parkinson,MYC,0.843
+Breast Cancer,BACE1,0.537
+Asthma,VEGFA,0.517
+Alzheimer,KRAS,0.933
+Asthma,VEGFA,0.636
+Asthma,BRCA2,0.599
+Parkinson,BACE1,0.711
+COVID-19,BRCA1,0.672
+Lung Cancer,APOE,0.589
+Obesity,JAK2,0.627
+Breast Cancer,INS,0.856
+Arthritis,CFTR,0.529
+Parkinson,BRCA1,0.884
+Obesity,PTEN,0.935
+Diabetes,EGFR,0.591
+Arthritis,BACE1,0.986
+Arthritis,MAPK1,0.683
+COVID-19,ACE,0.817
+Alzheimer,BRCA2,0.511
+Breast Cancer,MAPK1,0.511
+Arthritis,INS,0.524
+Diabetes,KRAS,0.937
+COVID-19,PTEN,0.956
+Breast Cancer,ACE,0.501
+Arthritis,EGFR,0.71
+Diabetes,MAPK1,0.555
+Alzheimer,BACE1,0.993
+Arthritis,INS,0.88
+Breast Cancer,KRAS,0.814
+Hypertension,VEGFA,0.97
+Obesity,KRAS,0.851
+Lung Cancer,TNF,0.759
+Parkinson,CFTR,0.722
+Arthritis,KRAS,0.531
+Diabetes,INS,0.884
+Obesity,AKT1,0.872
+Diabetes,MTOR,0.854
+Alzheimer,JAK2,0.673
+Arthritis,MYC,0.664
+Breast Cancer,JAK2,0.507
+Asthma,PTEN,0.675
+Obesity,TNF,0.925
+Lung Cancer,ACE,0.816
+Arthritis,APP,0.66
+Hypertension,APP,0.745
+Alzheimer,AKT1,0.515
+Lung Cancer,IL6,0.513
+Asthma,INS,0.686
+COVID-19,JAK2,0.671
+Hypertension,MYC,0.525
+Alzheimer,MTOR,0.651
+Parkinson,VEGFA,0.823
+Lung Cancer,CFTR,0.996
+Hypertension,VEGFA,0.807
+Lung Cancer,TP53,0.547
+COVID-19,APP,0.56
+Alzheimer,IL6,0.535
+Asthma,MAPK1,0.601
+Breast Cancer,KRAS,0.659
+Alzheimer,BRCA1,0.698
+Alzheimer,JAK2,0.636
+Obesity,CFTR,0.85
+Obesity,JAK2,0.506
+Alzheimer,AKT1,0.873
+Breast Cancer,TP53,0.905
+Lung Cancer,VEGFA,0.807
+Arthritis,TP53,0.989
+Diabetes,APP,0.818
+Parkinson,BACE1,0.572
+Obesity,APOE,0.818
+Arthritis,AKT1,0.577
+Alzheimer,APP,0.647
+Hypertension,CFTR,0.544
+Arthritis,BRCA1,0.858
+Asthma,CFTR,0.532
+Asthma,MTOR,0.576
+Breast Cancer,BACE1,0.901
+Asthma,BRCA2,0.763
+Breast Cancer,KRAS,0.538
+Asthma,APP,0.614
+Obesity,ACE,0.713
+Parkinson,EGFR,0.827
+Hypertension,BRCA2,0.777
+Asthma,JAK2,0.877
+Arthritis,APP,0.6
+Arthritis,APOE,0.728
+Asthma,MTOR,0.967
+Lung Cancer,KRAS,0.985
+COVID-19,IL6,0.78
+Obesity,MTOR,0.617
+Arthritis,BRCA1,0.613
+Asthma,MTOR,0.84
+Arthritis,ACE,0.622
+Diabetes,BRCA2,0.798
+Obesity,INS,0.886
+Parkinson,MYC,0.53
+Parkinson,JAK2,0.529
+Asthma,AKT1,0.686
+Alzheimer,APP,0.996
+Breast Cancer,APOE,0.824
+Alzheimer,BRCA2,0.533
+Alzheimer,TP53,0.967
+Arthritis,BACE1,0.748
+Lung Cancer,CFTR,0.828
+Alzheimer,ACE,0.69
+Asthma,AKT1,0.555
+COVID-19,TP53,0.947
+Alzheimer,MAPK1,0.832
+Lung Cancer,BACE1,0.639
+Asthma,PTEN,0.688
+COVID-19,TNF,0.936
+Asthma,MTOR,0.552
+Obesity,EGFR,0.987
+Hypertension,TP53,0.667
+Obesity,APP,0.941
+Breast Cancer,BRCA2,0.874
+Hypertension,AKT1,0.717
+Obesity,KRAS,0.736
+Asthma,KRAS,0.962
+Obesity,TP53,0.876
+Diabetes,BRCA1,0.608
+Asthma,BRCA1,0.747
+COVID-19,VEGFA,0.5
+Parkinson,IL6,0.836
+Obesity,BRCA2,0.645
+Parkinson,EGFR,0.778
+COVID-19,PTEN,0.588
+Diabetes,MTOR,0.618
+Parkinson,PTEN,0.858
+Obesity,BACE1,0.637
+Breast Cancer,ACE,0.577
+Parkinson,AKT1,0.581
+Breast Cancer,APOE,0.763
+Diabetes,TNF,0.857
+Lung Cancer,INS,0.82
+Hypertension,MTOR,0.514
+Obesity,CFTR,0.996
+Lung Cancer,MTOR,0.539
+Obesity,CFTR,0.831
+Hypertension,BRCA1,0.981
+Asthma,ACE,0.509
+Lung Cancer,BRCA2,0.735
+COVID-19,VEGFA,0.661
+Asthma,BRCA2,0.749
+Parkinson,KRAS,0.595
+COVID-19,TNF,0.574
+Arthritis,ACE,0.883
+Diabetes,ACE,0.906
+Asthma,TNF,0.883
+Arthritis,BACE1,0.57
+Obesity,IL6,0.624
+Alzheimer,MYC,0.802
+Asthma,TP53,0.547
+Alzheimer,TP53,0.517
+Obesity,MAPK1,0.846
+Breast Cancer,BRCA1,0.903
+Hypertension,KRAS,0.609
+Obesity,KRAS,0.582
+COVID-19,MTOR,0.976
+Obesity,BACE1,0.948
+Obesity,TNF,0.727
+Parkinson,MTOR,0.701
+Obesity,KRAS,0.572
+Diabetes,JAK2,0.526
+Arthritis,TP53,0.816
+Obesity,ACE,0.885
+Hypertension,APOE,0.674
+Asthma,INS,0.916
+COVID-19,JAK2,0.756
+Asthma,MTOR,0.659
+Hypertension,MAPK1,0.543
+Arthritis,JAK2,0.697
+COVID-19,BRCA2,0.571
+COVID-19,INS,0.57
+Hypertension,IL6,0.952
+Arthritis,JAK2,0.662
+Hypertension,IL6,0.626
+Hypertension,TP53,0.501
+Hypertension,JAK2,0.801
+Diabetes,BRCA2,0.759
+Arthritis,MYC,0.95
+Breast Cancer,MAPK1,0.551
+Hypertension,MYC,0.799
+Arthritis,INS,0.739
+Breast Cancer,MAPK1,0.931
+Diabetes,PTEN,0.508
+Asthma,APOE,0.751
+Breast Cancer,BRCA1,0.969
+Breast Cancer,BRCA2,0.945
+Alzheimer,PTEN,0.563
+Diabetes,AKT1,0.819
+Hypertension,TNF,0.947
+Lung Cancer,BACE1,0.923
+COVID-19,ACE,0.742
+Lung Cancer,APP,0.579
+Arthritis,AKT1,0.569
+Alzheimer,KRAS,0.775
+Hypertension,VEGFA,0.651
+Parkinson,APOE,0.615
+Alzheimer,ACE,0.952
+Hypertension,PTEN,0.869
+Hypertension,TNF,0.537
+Obesity,VEGFA,0.501
+Hypertension,INS,0.803
+Obesity,CFTR,0.973
+Parkinson,EGFR,0.811
+Arthritis,MAPK1,0.509
+Obesity,MTOR,0.875
+Breast Cancer,INS,0.531
+Breast Cancer,MTOR,0.747
+Diabetes,MAPK1,0.54
+Arthritis,APP,0.801
+COVID-19,APP,0.719
+Breast Cancer,BRCA1,0.623
+Alzheimer,BRCA2,0.816
+Breast Cancer,BACE1,0.906
+Breast Cancer,BRCA1,0.79
+Obesity,TP53,0.673
+Arthritis,APP,0.883
+COVID-19,APOE,0.531
+Breast Cancer,ACE,0.999
+Alzheimer,ACE,0.893
+COVID-19,ACE,0.671
+Hypertension,KRAS,0.524
+Diabetes,BRCA2,0.594
+Arthritis,TP53,0.634
+Diabetes,MYC,0.685
+Lung Cancer,TNF,0.566
+Arthritis,PTEN,0.69
+Breast Cancer,KRAS,0.534
+Parkinson,TNF,0.717
+Parkinson,BACE1,0.996
+Alzheimer,CFTR,0.849
+Breast Cancer,EGFR,0.57
+COVID-19,PTEN,0.973
+Asthma,EGFR,0.692
+COVID-19,APP,0.698
+Breast Cancer,APOE,0.648
+Asthma,IL6,0.75
+Hypertension,INS,0.534
+Lung Cancer,APOE,0.628
+COVID-19,JAK2,0.672
+Lung Cancer,IL6,0.625
+Lung Cancer,JAK2,0.609
+Alzheimer,BRCA2,0.635
+Arthritis,AKT1,0.745
+Obesity,JAK2,0.738
+Hypertension,AKT1,0.709
+COVID-19,CFTR,0.506
+Obesity,BRCA2,0.718
+Asthma,BACE1,0.858
+Obesity,PTEN,0.73
+Breast Cancer,BRCA1,0.677
+Breast Cancer,MAPK1,0.536
+Lung Cancer,ACE,0.985
+Parkinson,MYC,0.715
+Lung Cancer,TP53,0.941
+Arthritis,BACE1,0.721
+Parkinson,MAPK1,0.986
+Asthma,TP53,0.817
+COVID-19,IL6,0.798
+Alzheimer,CFTR,0.729
+Diabetes,AKT1,0.643
+Diabetes,PTEN,0.914
+COVID-19,BACE1,0.738
+Lung Cancer,MYC,0.737
+COVID-19,KRAS,0.671
+Breast Cancer,MTOR,0.731
+Breast Cancer,TP53,0.765
+Lung Cancer,AKT1,0.972
+Obesity,MTOR,0.531
+Diabetes,IL6,0.869
+Parkinson,EGFR,0.945
+Breast Cancer,ACE,0.681
+Hypertension,IL6,0.893
+Asthma,CFTR,0.639
+Lung Cancer,MYC,0.979
+Diabetes,EGFR,0.742
+Arthritis,TP53,0.776
+Obesity,TP53,0.789
+COVID-19,CFTR,0.564
+COVID-19,AKT1,0.512
+Obesity,PTEN,0.775
+Arthritis,BACE1,0.995
+Hypertension,IL6,0.674
+Lung Cancer,PTEN,0.832
+Breast Cancer,ACE,0.764
+Asthma,ACE,0.784
+Lung Cancer,VEGFA,0.613
+Lung Cancer,ACE,0.595
+Alzheimer,TNF,0.852
+Hypertension,MTOR,0.851
+Hypertension,APOE,0.923
+Hypertension,BRCA1,0.943
+Parkinson,TP53,0.891
+Alzheimer,PTEN,0.977
+Parkinson,INS,0.724
+Breast Cancer,AKT1,0.842
+Diabetes,KRAS,0.915
+Arthritis,EGFR,0.802
+Hypertension,TP53,0.558
+Breast Cancer,EGFR,0.641
+Parkinson,BRCA2,0.901
+Breast Cancer,APP,0.709
+Obesity,BRCA1,0.875
+Alzheimer,TP53,0.942
+Parkinson,AKT1,0.777
+Lung Cancer,PTEN,0.576
+Asthma,IL6,0.74
+Asthma,KRAS,0.934
+Alzheimer,AKT1,0.584
+Alzheimer,MYC,0.799
+Parkinson,INS,0.774
+Breast Cancer,INS,0.805
+Breast Cancer,EGFR,0.823
+Obesity,MTOR,0.779
+Parkinson,APP,0.965
+Hypertension,BRCA2,0.733
+Diabetes,JAK2,0.654
+Breast Cancer,BRCA2,0.711
+Asthma,PTEN,0.741
+Hypertension,MTOR,0.959
